@@ -1,0 +1,8 @@
+cookie
+
+    JSON -->> JavaScript
+
+    import json
+
+    json.dumps(dict)    将字典转化为json（字典格式的字符串）
+    json.loads(json)    将json转化为字典

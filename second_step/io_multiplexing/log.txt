@@ -1,0 +1,18 @@
+Thu Jan 21 20:35:03 2021: [WinError 10035] 无法立即完成一个非阻止性套接字操作。
+Thu Jan 21 20:35:06 2021: [WinError 10035] 无法立即完成一个非阻止性套接字操作。
+Thu Jan 21 20:35:09 2021: [WinError 10035] 无法立即完成一个非阻止性套接字操作。
+Thu Jan 21 20:37:35 2021: [WinError 10035] 无法立即完成一个非阻止性套接字操作。
+Thu Jan 21 20:37:38 2021: [WinError 10035] 无法立即完成一个非阻止性套接字操作。
+Thu Jan 21 20:37:41 2021: [WinError 10035] 无法立即完成一个非阻止性套接字操作。
+Thu Jan 21 20:37:44 2021: [WinError 10035] 无法立即完成一个非阻止性套接字操作。
+Thu Jan 21 20:37:47 2021: [WinError 10035] 无法立即完成一个非阻止性套接字操作。
+Thu Jan 21 20:37:50 2021: [WinError 10035] 无法立即完成一个非阻止性套接字操作。
+Thu Jan 21 20:44:05 2021: timed out
+Thu Jan 21 20:44:11 2021: timed out
+Thu Jan 21 20:44:17 2021: timed out
+Thu Jan 21 20:44:23 2021: timed out
+Thu Jan 21 20:44:29 2021: timed out
+Thu Jan 21 20:44:35 2021: timed out
+Thu Jan 21 20:44:41 2021: timed out
+Thu Jan 21 20:44:47 2021: timed out
+Thu Jan 21 20:44:53 2021: timed out

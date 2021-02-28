@@ -1,0 +1,32 @@
+1. 数据结构：
+    链式表，顺序表，链式栈，顺序队列，链式队列
+    排序查找（递归，冒泡，选择，插入，快速，二分法查找）
+
+2. IO网络编程
+    文件操作：文件的打开和读写操作（字节串）
+    网络编程：网络基础
+                     TCP
+                      UDP
+                      HTTP协议
+                      struct模块
+    IO模型：阻塞     非阻塞     IO多路复用
+                   IO多路复用：select       poll        epoll
+    协程：异步IO
+
+3. 进程线程
+    进程：进程理论     fork(Windows下不可使用)        multiprocessing
+               进程间通信        进程池
+    线程：threading        自定义线程类          同步互斥
+
+4. 正则表达式
+
+5. mysql 数据库
+    数据库的创建
+    数据表的创建
+    数据类型
+    pymsql
+
+6. git使用
+
+7.聊天室       ftp文件服务器        电子词典        HTTPServer2.0
+HTTPServer3.0

@@ -1,0 +1,10 @@
+"""
+    使用udp完成，客户端不断录入学生信息，
+    将其发送到服务端，在服务端将学生信息写入到一个文件中，每个信息占一行
+
+    信息格式：id     name        age     score
+    * id    int
+    name    str
+    age     int
+    score   float
+"""

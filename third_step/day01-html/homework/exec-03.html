@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>作业三</title>
+</head>
+<body>
+<h1>用户注册</h1>
+<form action="#">
+    <div>
+        <label for="name">名称：</label>
+        <input type="text" id="name" name="name" placeholder="请输入用户名">
+    </div>
+    <div>
+        <label for="passwd">密码：</label>
+        <input type="password" id="passwd" name="password" placeholder="请输入密码">
+    </div>
+    <div>
+        <label for="marry">婚否</label>
+        <input type="checkbox">
+    </div>
+    <div>
+        <label for="gender">性别</label>
+        <input type="radio" name="gender">男
+        <input type="radio" name="gender">女
+    </div>
+    <div>
+        <label for="education">学历</label>
+        <select name="edu" id="edu">
+            <option value="1">请选择</option>
+            <option value="2">大专</option>
+            <option value="3">本科</option>
+            <option value="4">硕士</option>
+        </select>
+    </div>
+    <div>
+        <label for="introduce">简介</label>
+        <textarea name="intro" id="introduce" cols="30" rows="10"></textarea>
+    </div>
+    <div>
+        <input type="submit" value="提交">
+        <input type="reset" value="重置" disabled>
+    </div>
+</form>
+</body>
+</html>
